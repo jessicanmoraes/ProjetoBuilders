@@ -1,0 +1,2 @@
+# ProjetoBuilders
+Desenvolva uma REST API que:    Permita criação de novos clientes;  Permita a atualização de clientes existentes;  Permita que seja possível listar os clientes de forma paginada;  Permita que buscas por atributos cadastrais do cliente;  É necessário também que cada elemento retornado pela api de clientes informe a idade;  Documente sua API e também disponibilize um arquivo Postman para fácil utilização da API.
